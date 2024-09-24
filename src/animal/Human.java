@@ -25,7 +25,7 @@ public class Human extends Animal implements Thinkable {
 
     // thinkメソッド
     public void think() {
-        System.out.println("私は " + getHobby() + " について考えています。");
+        System.out.println("私は" + getHobby() + "について考えています。");
     }
 }
 

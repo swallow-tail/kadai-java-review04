@@ -17,6 +17,6 @@ public class Animal {
 
     // 名前・年齢を言うメソッド
     public void say() {
-        System.out.println(name + " です。" + age + " 歳です。");
+        System.out.println(name + "です。" + age + "歳です。");
     }
 }
